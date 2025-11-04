@@ -111,7 +111,7 @@ window.addEventListener("DOMContentLoaded", async () => {
       sumL += 0.2126*r + 0.7152*g + 0.0722*b;
     }
     const avg = sumL / (d.length/step);
-    if (avg > 120) return img; // لا يحتاج تعديل
+    if (avg > 120) return img;
     const c2 = document.createElement("canvas");
     const x2 = c2.getContext("2d");
     c2.width = img.width; c2.height = img.height;
