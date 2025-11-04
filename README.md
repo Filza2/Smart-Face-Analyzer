@@ -1,6 +1,9 @@
 # Smart Face Analyzer  
 
-**Smart Face Analyzer** is a browser-based tool for face **detection**, **analysis**, and **comparison**, built with [face-api.js](https://github.com/justadudewhohacks/face-api.js).  
+**Smart Face Analyzer** is a browser-based tool for face **detection**, **analysis**, and **comparison**, built with [face-api.js](https://github.com/justadudewhohacks/face-api.js). 
+
+**Live Demo:**  
+Try the project online at --> [smart-face-analyzer.pages.dev](https://smart-face-analyzer.pages.dev)
 
 It can detect multiple faces in an image, estimate **age**, **gender**, and **emotion**, and compare similarities between different people — all **locally** in your browser without uploading or saving any data.  
 
